@@ -12,9 +12,9 @@ const IndexPage = () => (
         rel="noopener noreferrer"
       >
         Lisette
-      </a>. He's passionate about crafting experiences for products that solve
-      real problems for real people. He's currently on the Product Design team
-      at{' '}
+      </a>. He's passionate about crafting user-centric, delightful and human
+      experiences that solve real problems. He's currently on the Product Design
+      team at{' '}
       <a
         className="link dim underline black"
         href="https://gusto.com"
