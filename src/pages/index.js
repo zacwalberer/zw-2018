@@ -4,7 +4,7 @@ import '../../src/layouts/tachyons/css/tachyons.css'
 const IndexPage = () => (
   <div className="mw6 pa4 ma4">
     <h1 className="f4 normal lh-copy">
-      Zac Walberer is a product designer living in Denver with his wife,{' '}
+      Zac Walberer is a product designer living in Flagstaff,AZ with his wife,{' '}
       <a
         className="link dim underline black"
         href="https://twitter.com/LisetteWalberer"
@@ -12,8 +12,8 @@ const IndexPage = () => (
         rel="noopener noreferrer"
       >
         Lisette
-      </a>. He's passionate about crafting user-centric, delightful and human
-      experiences that solve real problems. He's currently on the Product Design
+      </a>. He's passionate about crafting user-centric, delightful
+      experiences that solve complex problems. He's currently on the Product Design
       team at{' '}
       <a
         className="link dim underline black"
